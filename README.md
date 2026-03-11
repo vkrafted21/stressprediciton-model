@@ -1,5 +1,6 @@
 
 # Stress Prediction & Period Stress Model
+![Python](https://img.shields.io/badge/Python-3.9-blue)
 
 This repository contains two machine learning models used in a **student mental health monitoring system**:
 
