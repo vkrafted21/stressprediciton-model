@@ -4,7 +4,7 @@
 This repository contains two machine learning models used in a **student mental health monitoring system**:
 
 1. **General Stress Predictor**
-2. **Menstrual Cycle Stress Predictor (for females) **
+2. **Menstrual Cycle Stress Predictor (for females)**
 
 Both models are trained using **Random Forest algorithms** and exported using `joblib`.
 
@@ -187,5 +187,5 @@ This models power a **student mental health monitoring system** that:
 - provides personalized recommendations
 - visualizes stress trends
   
-```
+---
 
